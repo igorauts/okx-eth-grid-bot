@@ -1,0 +1,15 @@
+{
+  "bot_id": "OKX-ETH-01",
+  "instrument": "ETH-USDT-SWAP",
+  "direction": "long",
+  "td_mode": "cross",
+  "grid_step": "0.25",
+  "take_profit": "1.75",
+  "order_size": "0.01",
+  "active_buy_orders": 25,
+  "max_grids": 500,
+  "max_exchange_orders": 500,
+  "buy_type": "post_only",
+  "tp_type": "attached_limit",
+  "live_trading": false
+}
